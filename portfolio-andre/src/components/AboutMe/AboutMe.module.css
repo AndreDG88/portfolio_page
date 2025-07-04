@@ -1,0 +1,72 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+
+.avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #6c50d1;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.6);
+}
+
+.bio h2 {
+  font-family: 'BigNoodleTitling', sans-serif;
+  font-size: 2.5rem;
+  color: #6c50d1;
+  margin-bottom: 1rem;
+}
+
+.bio p {
+  max-width: 800px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.links a {
+  color: #6c50d1;
+  transition: color 0.3s ease;
+}
+
+.links a:hover {
+  color: #26DE81;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .bio p {
+    padding: 0 1rem;
+    font-size: 1rem;
+  }
+
+  .avatar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .stats img {
+    height: auto;
+    width: 90%;
+  }
+}
