@@ -1,5 +1,7 @@
+import styles from './Home.module.css'
 import Header from '../../components/Header/Header'
 import AboutMe from '../../components/AboutMe/AboutMe'
+import ProjectGallery from '../../components/ProjectGallery/ProjectGallery'
 
 function Home() {
   return (
@@ -11,8 +13,8 @@ function Home() {
         </section>
 
         <section id="projects">
-          <h2>Projetos</h2>
-          {/* galeria em breve */}
+          <h2 className={styles.title}>Projetos</h2>
+          <ProjectGallery />
         </section>
         
         <section id="contact">
