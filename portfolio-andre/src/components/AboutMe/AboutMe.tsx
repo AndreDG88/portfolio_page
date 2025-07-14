@@ -1,26 +1,41 @@
 import styles from './AboutMe.module.css'
 import avatar from '../../assets/media/avatar.png'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import { motion } from 'framer-motion'
 
 function AboutMe() {
   return (
     <section id="about" className={styles.about}>
-      <img src={avatar} alt="André Soares" className={styles.avatar} />
+      <motion.div
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, amount: 0.4 }}
+      transition={{ duration: 0.5 }}
+      >
+        <img src={avatar} alt="André Soares" className={styles.avatar} />
+      </motion.div>
 
       <div className={styles.bio}>
         <h2>Sobre Mim</h2>
 
-        <p>
-          Sou <strong>André Soares</strong>, desenvolvedor Full Stack Python com formação pela EBAC e
-          formado em Design Gráfico pela UVA. Tenho experiência prática em projetos de desenvolvimento,
-          como landing pages, e-commerce e sistemas com React, TypeScript, Python e Vue.
-          Também atuo como designer e ilustrador, com forte domínio em projetos gráficos.
-        </p>
+        <motion.div
+        initial={{ opacity: 0 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true, amount: 0.4 }}
+        transition={{ duration: 3.0 }}
+        >
+          <p>
+            Sou <strong>André Soares</strong>, desenvolvedor Full Stack Python com formação pela EBAC e
+            formado em Design Gráfico pela UVA. Tenho experiência prática em projetos de desenvolvimento,
+            como landing pages, e-commerce e sistemas com React, TypeScript, Python e Vue.
+            Também atuo como designer e ilustrador, com forte domínio em projetos gráficos.
+          </p>
 
-        <p>
-          Tenho perfil focado, organizado e com facilidade de trabalho em equipe, já tendo atuado como
-          coordenador de criação. Estou sempre buscando unir técnica e criatividade em soluções funcionais.
-        </p>
+          <p>
+            Tenho perfil focado, organizado e com facilidade de trabalho em equipe, já tendo atuado como
+            coordenador de criação. Estou sempre buscando unir técnica e criatividade em soluções funcionais.
+          </p>
+        </motion.div>
 
         <div className={styles.links}>
           <a

@@ -2,6 +2,7 @@ import styles from './Home.module.css'
 import Header from '../../components/Header/Header'
 import AboutMe from '../../components/AboutMe/AboutMe'
 import ProjectGallery from '../../components/ProjectGallery/ProjectGallery'
+import Contact from '../../components/Contact/Contact'
 
 function Home() {
   return (
@@ -18,8 +19,8 @@ function Home() {
         </section>
         
         <section id="contact">
-          <h2>Contato</h2>
-          {/* dados de contato em breve */}
+          <h2 className={styles.title}>Contato</h2>
+          <Contact />
         </section>
       </main>
     </div>
