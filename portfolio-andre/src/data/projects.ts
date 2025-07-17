@@ -16,10 +16,16 @@ export const projects: Project[] = [
     title: 'Troca uma Ideia!',
     image: '/media/projects/troca-uma-ideia_image-1.png',
     gallery: [
-      '/media/projects/troca-uma-ideia_image-1.png'
+      '/media/projects/troca-uma-ideia_image-1.png',
+      '/media/projects/troca-uma-ideia_image-2.png',
+      '/media/projects/troca-uma-ideia_image-3.png',
+      '/media/projects/troca-uma-ideia_image-4.png',
+      '/media/projects/troca-uma-ideia_image-5.png',
+      '/media/projects/troca-uma-ideia_image-6.png',
+      '/media/projects/troca-uma-ideia_image-7.png'
     ],
     category: 'dev',
-    description: 'Rede social de visual minimalista e responsivo. Feito com Python, React e TypeScript',
+    description: 'Desenvolvido como projeto final do curso de Desenvolvedor Fullstack Python pela EBAC - Escola Britânica de Artes Criativas e Tecnologia. Uma rede social minimalista e responsiva que permite aos usuários criarem perfis, publicarem mensagens curtas (papos), seguir outras pessoas, curtir postagens, fazer rePapos e acompanhar tendências. Funcionalidades principais: Autenticação em token com login e cadastro de usuários, Perfis de usuário com foto de avatar, Sistema completo de mensagens (papos), Curtir e descurtir papos, RePapear (compartilhar papo com ou sem comentário), Seguir e deixar de seguir usuários, Listagem de tendências com base nas hashtags mais utilizadas, Interface web responsiva e mobile-first, Backend em Django REST Framework, Frontend em React + TypeScript e Deploy completo: API no PythonAnywhere, frontend na Vercel',
     techs: ['React', 'TypeScript', 'Django', 'PostgreSQL', 'JWT', 'GitHub', 'Vercel', 'PythonAnywhere'],
     github: 'https://github.com/AndreDG88/troca-uma-ideia',
     vercel: 'https://troca-uma-ideia.vercel.app/login'
@@ -197,8 +203,12 @@ export const projects: Project[] = [
     id: 'one-piece',
     title: 'One Piece Luffy',
     image: '/media/projects/one-piece_image-1.png',
+    gallery: [
+    '/media/projects/one-piece_image-1.png',
+    ],
     category: 'design',
-    description: 'Personagem Luffy do anime One piece. Ilustração feita em Autodesk Sketchbook.',
+    description: 'Personagem Luffy do anime One piece. Ilustração digital feita em Autodesk Sketchbook.',
+    techs: ['Autodesk Sketchbook', 'XP-Pen', 'Caneta digital']
   },
   {
     id: 'demon-slayer',
