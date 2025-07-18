@@ -22,6 +22,7 @@
 .logoArea {
   display: flex;
   align-items: center;
+  text-decoration: none;
   gap: 1rem;
 }
 
@@ -50,12 +51,6 @@
 
 .navLinks a:hover {
   color: #26DE81;
-}
-
-#about, 
-#projects, 
-#contact {
-  scroll-margin-top: 100px;
 }
 
 .menuToggle {

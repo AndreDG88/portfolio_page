@@ -3,12 +3,14 @@ import Header from '../../components/Header/Header'
 import AboutMe from '../../components/AboutMe/AboutMe'
 import ProjectGallery from '../../components/ProjectGallery/ProjectGallery'
 import Contact from '../../components/Contact/Contact'
+import HeroSlider from '../../components/HeroSlider/HeroSlider'
 
 function Home() {
   return (
-    <div  className="container">
+    <div>
       <Header />
-      <main>
+      <HeroSlider />
+      <main className="container">
         <section id="about">
           <AboutMe />
         </section>

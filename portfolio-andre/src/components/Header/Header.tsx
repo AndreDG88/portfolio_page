@@ -17,10 +17,10 @@ function Header() {
       transition={{ duration: 0.6, ease: 'easeOut' }}
     >
       <header className={styles.header}>
-        <div className={styles.logoArea}>
+        <Link className={styles.logoArea} smooth to="/#home" onClick={() => setMenuOpen(false)}>
           <img src={logo} alt="Logo" className={styles.logo} />
           <h1 className={styles.title}>André Soares</h1>
-        </div>
+        </Link>
 
         <nav className={`${styles.nav} ${menuOpen ? styles.open : ''}`}>
           <ul className={styles.navLinks}>

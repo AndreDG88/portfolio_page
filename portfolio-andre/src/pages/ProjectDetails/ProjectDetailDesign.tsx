@@ -5,8 +5,10 @@ import { motion } from 'framer-motion'
 import { FaTimes, FaChevronLeft, FaChevronRight } from 'react-icons/fa'
 import Header from '../../components/Header/Header'
 import { useState } from 'react'
+import { useEffect } from 'react'
 
 function ProjectDetailDesign() {
+  useEffect(() => {window.scrollTo(0, 0)}, [])
   const { id } = useParams()
   const project = projects.find((p) => p.id === id && p.category === 'design')
 

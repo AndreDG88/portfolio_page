@@ -6,9 +6,9 @@ import DesignDetail from './pages/ProjectDetails/ProjectDetailDesign'
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/project/dev/:id" element={<DevDetail />} />
-      <Route path="/project/design/:id" element={<DesignDetail />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/project/dev/:id" element={<DevDetail />} />
+        <Route path="/project/design/:id" element={<DesignDetail />} />
     </Routes>
   )
 }
