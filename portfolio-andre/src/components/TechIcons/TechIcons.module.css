@@ -1,0 +1,32 @@
+.techIcons {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 100%;
+  width: 100%;
+}
+
+.techIcons h3 {
+  font-family: 'BigNoodleTitling', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #6c50d1;
+}
+
+.iconGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  font-size: 2.5rem;
+  color: #fff;
+  padding: 0 1rem;
+}
+
+.iconGrid svg {
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+
+.iconGrid svg:hover {
+  transform: scale(1.2);
+  color: #26DE81;
+}

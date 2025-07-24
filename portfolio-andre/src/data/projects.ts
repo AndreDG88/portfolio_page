@@ -252,36 +252,65 @@ export const projects: Project[] = [
     github: 'https://github.com/AndreDG88/ebac_projeto_calculadora_medias',
     vercel: 'https://ebac-projeto-calculadora-medias-phi.vercel.app/'
   },
+  // A PARTIR DESTA PARTE SÃO SÓ PROJETOS DE DESIGN E ILUSTRAÇÃO ###################################################################################################################################################################################################################
   {
     id: 'one-piece',
-    title: 'One Piece Luffy',
+    title: 'Monkey D. Luffy – Ilustração em Visual Alternativo',
     image: '/media/projects/one-piece_image-1.png',
     gallery: [
-    '/media/projects/one-piece_image-1.png',
+      '/media/projects/one-piece_image-1.png',
+      '/media/projects/one-piece_image-2.png',
+      '/media/projects/one-piece_image-3.png',
+      '/media/projects/one-piece_image-4.png'
     ],
     category: 'design',
-    description: 'Personagem Luffy do anime One piece. Ilustração digital feita em Autodesk Sketchbook.',
-    techs: ['Autodesk Sketchbook', 'XP-Pen', 'Caneta digital']
+    description: 'Esta obra apresenta uma interpretação alternativa do personagem Monkey D. Luffy, protagonista do anime e mangá One Piece. A ilustração foi desenvolvida em estilo mangá, mantendo a essência expressiva e vibrante do original, mas com um visual diferenciado, trazendo Luffy em uma versão mais estilizada e com vestimentas inspiradas em trajes de capitão pirata clássico. A arte foi criada de forma 100% digital, utilizando mesa digitalizadora e o software Autodesk Sketchbook. O processo envolveu o desenho manual dos contornos, coloração digital com destaque para luz e sombra, além da composição do cenário ao fundo, que remete ao convés de um navio pirata ao entardecer. O objetivo foi unir fidelidade ao personagem com liberdade criativa, explorando elementos de design e ambientação para dar um novo olhar ao icônico "Chapéu de Palha".',
+    techs: ['Autodesk Sketchbook', 'Mesa digitalizadora', 'Estilo mangá', 'Pintura digital', 'Etapas em lanes']
   },
   {
     id: 'demon-slayer',
-    title: 'Demon Slayer',
+    title: 'Demon Slayer – Quatro Protagonistas',
     image: '/media/projects/demon-slayer_image-1.png',
+    gallery: [
+      '/media/projects/demon-slayer_image-1.png',
+      '/media/projects/demon-slayer_image-2.png',
+      '/media/projects/demon-slayer_image-3.png',
+      '/media/projects/demon-slayer_image-4.png',
+      '/media/projects/demon-slayer_image-5.png'
+    ],
     category: 'design',
-    description: 'Protagonistas do anime Demon Slayer. Ilustração feita em Autodesk Sketchbook.',
+    description: 'Ilustração digital feita usando o universo do anime e mangá Demon Slayer (Kimetsu no Yaiba), apresentando os quatro protagonistas, Tanjiro Kamado, Nezuko Kamado, Zenitsu Agatsuma e Inosuke Hashibira em poses dinâmicas, utilizando suas habilidades características. A composição foi estruturada como um mosaico dinâmico, em que cada personagem ocupa uma seção distinta da arte, com efeitos visuais únicos que representam seus estilos de combate: água, eletricidade, chamas rosadas e ataques bestiais. Além disso, o fundo incorpora um padrão sutil de linhas geométricas que se entrelaçam, funcionando como elemento de ligação visual entre os personagens e reforçando a unidade da cena. A arte foi realizada em estilo mangá, utilizando mesa digitalizadora e o software Autodesk Sketchbook.',
+    techs: ['Autodesk Sketchbook', 'Mesa digitalizadora', 'Estilo mangá', 'Pintura digital', 'Etapas em lanes', 'Composição em mosaico']
   },
   {
     id: 'boku-no-hero',
-    title: 'Boku no hero',
+    title: 'Boku no Hero – Izuku e os Fragmentos que o moldam',
     image: '/media/projects/boku-no-hero_image-1.png',
+    gallery: [
+      '/media/projects/boku-no-hero_image-1.png',
+      '/media/projects/boku-no-hero_image-2.png',
+      '/media/projects/boku-no-hero_image-3.png',
+      '/media/projects/boku-no-hero_image-4.png',
+      '/media/projects/boku-no-hero_image-5.png',
+      '/media/projects/boku-no-hero_image-6.png'
+    ],
     category: 'design',
-    description: 'Personagem Deku do anime Boku no Hero Academia. Ilustração feita em Autodesk Sketchbook.',
+    description: 'Ilustração digital feita usando o universo de Boku no Hero Academia (My Hero Academia), com foco no protagonista Izuku Midoriya. A cena retrata Midoriya em posição contemplativa e vigilante sobre uma gárgula, com sua silhueta envolta por raios. O fundo foi concebido como um mosaico fragmentado, em que cada seção é separada pelos próprios raios emanados de seu corpo. Dentro de cada fragmento, aparecem outros personagens importantes da história, desenhados em lineart com sombreamento sutil, aplicados sobre paletas de cores únicas que variam conforme a emoção ou simbolismo de cada personagem. A composição equilibra ação e introspecção, criando uma atmosfera narrativa e visualmente impactante. A arte foi desenvolvida em estilo mangá com técnicas digitais utilizando mesa digitalizadora e Autodesk Sketchbook.',
+    techs: ['Autodesk Sketchbook', 'Mesa digitalizadora', 'Estilo mangá', 'Pintura digital', 'Etapas em lanes', 'Composição em mosaico', 'Composição narrativa']
   },
   {
     id: 'wotakoi',
-    title: 'Wotakoi',
+    title: 'Wotakoi – Abertura Icônica',
     image: '/media/projects/wotakoi_image-1.png',
+    gallery: [
+      '/media/projects/wotakoi_image-1.png',
+      '/media/projects/wotakoi_image-2.png',
+      '/media/projects/wotakoi_image-3.png',
+      '/media/projects/wotakoi_image-4.png',
+      '/media/projects/wotakoi_image-5.png'
+    ],
     category: 'design',
-    description: 'Protagonistas do anime Wotakoi. Ilustração feita em Autodesk Sketchbook.',
+    description: 'Ilustração digital inspirada na abertura icônica do anime Wotakoi: Wotaku ni Koi wa Muzukashii. A arte retrata os dois casais protagonistas (Narumi & Hirotaka, Hanako & Tarou) em poses fiéis à coreografia da dança apresentada na sequência de abertura, que viralizou nas redes sociais durante o lançamento da série. A composição divide visualmente os casais em dois ambientes distintos, separados por um fluxo de cores vibrantes que percorre a cena e dá movimento à imagem. Sobre esse fluxo, a logo do anime é centralizada como elemento de destaque. A ilustração também conta com diversos easter eggs ao fundo, incluindo referências à cultura pop, jogos, e a presença discreta do terceiro casal da série, que aparece em um monitor no canto inferior esquerdo. Todo o trabalho foi realizado em estilo mangá, utilizando ferramentas digitais para manter a estética limpa e fiel ao material original.',
+    techs: ['Autodesk Sketchbook', 'Mesa digitalizadora', 'Estilo mangá', 'Pintura digital', 'Etapas em lanes', 'Composição narrativa']
   },
 ]
