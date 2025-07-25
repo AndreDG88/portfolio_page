@@ -3,6 +3,7 @@ import avatar from '../../assets/media/avatar.png'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { motion } from 'framer-motion'
 import TechIcons from '../TechIcons/TechIcons'
+import Timeline from '../Timeline/Timeline'
 
 function AboutMe() {
   return (
@@ -33,7 +34,7 @@ function AboutMe() {
 
           <p>
             Me graduei em Design pela UVA e me especializei em Desenvolvimento Full Stack pela EBAC, onde aprofundei conhecimentos nas mais diversas técnologoias, 
-            como React, TypeScript, Python, Django e Docker. Além de ferramentas que auxiliam o trabalgo em equipe, como o Git.
+            como React, TypeScript, Python, Django e Docker. Além de ferramentas que auxiliam o trabalho em equipe, como o Git.
             Essa formação híbrida me permite pensar projetos de forma completa, do conceito visual à entrega técnica.
           </p>
         </motion.div>
@@ -52,7 +53,11 @@ function AboutMe() {
             alt="GitHub Stats"
           />
         </div>
+      </div>
 
+        <Timeline />
+
+      <div className={styles.bio}>
         <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -65,13 +70,13 @@ function AboutMe() {
           </p>
 
           <p>
-            Tenho afinidade com interfaces, UI/UX e aplicações web responsivas. Entre meus projetos, estão calculadoras interativas, sistemas de cadastro, portais visuais e
+            Tenho afinidade com interfaces, UI/UX e aplicações web responsivas. Entre meus projetos, estão redes sociais, sistemas de cadastro, portais visuais e
             experimentações em 3D e animação. Busco oportunidades em que eu possa crescer como desenvolvedor, contribuir com time e aprender continuamente.
           </p>
         </motion.div>
       </div>
 
-          <TechIcons />
+      <TechIcons />
 
       <div className={styles.bio}>
         <motion.div
