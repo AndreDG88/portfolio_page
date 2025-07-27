@@ -313,4 +313,128 @@ export const projects: Project[] = [
     description: 'Ilustração digital inspirada na abertura icônica do anime Wotakoi: Wotaku ni Koi wa Muzukashii. A arte retrata os dois casais protagonistas (Narumi & Hirotaka, Hanako & Tarou) em poses fiéis à coreografia da dança apresentada na sequência de abertura, que viralizou nas redes sociais durante o lançamento da série. A composição divide visualmente os casais em dois ambientes distintos, separados por um fluxo de cores vibrantes que percorre a cena e dá movimento à imagem. Sobre esse fluxo, a logo do anime é centralizada como elemento de destaque. A ilustração também conta com diversos easter eggs ao fundo, incluindo referências à cultura pop, jogos, e a presença discreta do terceiro casal da série, que aparece em um monitor no canto inferior esquerdo. Todo o trabalho foi realizado em estilo mangá, utilizando ferramentas digitais para manter a estética limpa e fiel ao material original.',
     techs: ['Autodesk Sketchbook', 'Mesa digitalizadora', 'Estilo mangá', 'Pintura digital', 'Etapas em lanes', 'Composição narrativa']
   },
+  {
+  id: 'akatsuki-neon',
+  title: 'Akatsuki – Neon Sangrento',
+  image: '/media/projects/Akatsuki_image-1.png',
+  gallery: [
+    '/media/projects/Akatsuki_image-1.png',
+    '/media/projects/Akatsuki_image-2.png',
+    '/media/projects/Akatsuki_image-3.png',
+    '/media/projects/Akatsuki_image-4.png',
+    '/media/projects/Akatsuki_image-5.png',
+    '/media/projects/Akatsuki_image-6.png',
+    '/media/projects/Akatsuki_image-7.png'
+  ],
+  category: 'design',
+  description: 'Ilustração digital dos membros da organização Akatsuki, do universo Naruto. Explorando uma composição dramática em preto e vermelho, as cores emblemáticas do grupo. O símbolo da Akatsuki, estilizado como um letreiro de neon vermelho, ocupa o centro da imagem e serve como única fonte de luz da cena, iluminando com intensidade os contornos dos personagens ao fundo. Os integrantes, apenas em lineart com volumes sugeridos pela iluminação do neon, surgem a partir da escuridão. Criando uma atmosfera sombria e ameaçadora. Reforça o mistério e o poder que cercam a Akatsuki, equilibrando fidelidade ao material original com um toque próprio, estilizado. Todo o trabalho foi feito com mesa digitalizadora e o software Autodesk SketchBook, utilizando camadas organizadas por função e foco na narrativa visual da composição.',
+  techs: [
+    'Autodesk Sketchbook',
+    'Mesa digitalizadora',
+    'Pintura digital',
+    'Estilo mangá',
+    'Luz e sombra',
+    'Etapas em lanes'
+  ]
+},
+{
+  id: 'bear-and-bird',
+  title: 'Urso e Pássaro – Companheiros Musicais',
+  image: '/media/projects/bear-and-bird_image-1.png',
+  gallery: [
+    '/media/projects/bear-and-bird_image-1.png',
+    '/media/projects/bear-and-bird_image-2.png',
+    '/media/projects/bear-and-bird_image-3.png',
+    '/media/projects/bear-and-bird_image-4.png'
+  ],
+  category: 'design',
+  description: 'Ilustração digital desenvolvida para compor a decoração de um quarto infantil. A proposta era representar um urso em pé, com fones de ouvido coloridos e um pequeno pássaro pousado sobre sua cabeça. Uma cena lúdica que transmitisse leveza e simpatia. O estilo da arte equilibra o realismo nos detalhes com uma abordagem voltada ao universo infantil. A atenção especial foi dada à representação das texturas: os pelos do urso e as penas do pássaro foram desenhados com cuidado para reforçar a sensação tátil e acolhedora da imagem. A composição busca encantar tanto crianças quanto adultos, funcionando como peça decorativa e narrativa. Toda a ilustração foi feita com mesa digitalizadora no Adobe Photoshop, utilizando pincéis personalizados e camadas organizadas por função.',
+  techs: [
+    'Adobe Photoshop',
+    'Mesa digitalizadora',
+    'Estilo infantil realista',
+    'Trabalho com texturas',
+    'Composição lúdica',
+    'Arte para decoração infantil'
+  ]
+},
+{
+  id: 'casal-retrato-digital',
+  title: 'Retrato Digital – Casal',
+  image: '/media/projects/casal-1.png',
+  gallery: [
+    '/media/projects/casal-1.png',
+    '/media/projects/casal-2.png',
+    '/media/projects/casal-3.png'
+  ],
+  category: 'design',
+  description: 'Ilustração digital desenvolvida a partir de uma fotografia pessoal, capturando um momento especial em um passeio com minha esposa. A proposta foi transformar a imagem original em uma arte estilizada que mantivesse a essência do momento, destacando a expressão, os traços marcantes e os detalhes, como a tatuagem floral oriental e a tipografia da camiseta. A ilustração apresenta um acabamento limpo e expressivo, com contornos bem definidos, uso controlado de luz e sombra, e um fundo colorido suavemente desfocado para valorizar o casal em primeiro plano. O trabalho foi inteiramente feito com mesa digitalizadora no Adobe Photoshop, utilizando camadas separadas para facilitar o controle sobre cada elemento visual.',
+  techs: [
+    'Adobe Photoshop',
+    'Mesa digitalizadora',
+    'Retrato estilizado',
+    'Arte baseada em foto',
+    'Etapas em lanes',
+    'Colorização digital'
+  ]
+},
+{
+  id: 'tinker-bell',
+  title: 'Ilustração Digital – Tinker Bell',
+  image: '/media/projects/tinker-bell-1.png',
+  gallery: [
+    '/media/projects/tinker-bell-1.png',
+    '/media/projects/tinker-bell-2.png',
+    '/media/projects/tinker-bell-3.png',
+  ],
+  category: 'design',
+  description: 'Ilustração da personagem Tinker Bell (Sininho), inspirada na versão clássica da Disney para o conto infantil Peter Pan. O desenho foi inicialmente feito à mão livre sobre papel, com foco em capturar a delicadeza da personagem e sua interação com o ambiente floral. Após a finalização do traço tradicional, a arte foi digitalizada e passou por um processo de finalização no Adobe Photoshop, utilizando mesa digitalizadora para colorização e ajustes de luz, sombra e textura. O fundo branco com brilhos sutis destaca ainda mais a personagem e confere à peça um ar mágico. Mantendo fidelidade ao estilo visual da animação original.',
+  techs: [
+    'Desenho à mão livre',
+    'Adobe Photoshop',
+    'Mesa digitalizadora',
+    'Desenho Artístico',
+    'Colorização Digital'
+  ]
+},
+{
+  id: 'saint-seiya',
+  title: 'Seiya de Pégaso',
+  image: '/media/projects/saint-seiya-1.png',
+  gallery: [
+    '/media/projects/saint-seiya-1.png',
+    '/media/projects/saint-seiya-2.png',
+    '/media/projects/saint-seiya-3.png'
+  ],
+  category: 'design',
+  description: 'Ilustração do personagem Seiya, protagonista do anime e mangá Saint Seiya (Os Cavaleiros do Zodíaco), retratado com sua armadura inicial da versão clássica do anime. A arte foi originalmente desenhada à mão no papel, em 2007, e posteriormente digitalizada para finalização e colorização digital. O trabalho foi desenvolvido com uso de mesa digitalizadora e Adobe Photoshop, onde foram aplicados efeitos de iluminação. Ao fundo, a constelação de Pégaso, símbolo do cavaleiro, é representada de forma etérea e brilhante sobre um céu noturno estrelado, reforçando o vínculo entre o personagem e sua constelação guardia. Uma homenagem nostálgica a um ícone dos animes clássicos.',
+  techs: [
+    'Desenho à mão livre',
+    'Adobe Photoshop',
+    'Mesa digitalizadora',
+    'Desenho Artístico',
+    'Colorização Digital',
+    'Fanart',
+  ]
+},
+{
+  id: 'retrato-minimalista',
+  title: 'Retrato Minimalista em Linhas',
+  image: '/media/projects/line-portraid-1.png',
+  gallery: [
+    '/media/projects/line-portraid-1.png',
+    '/media/projects/line-portraid-2.png',
+    '/media/projects/line-portraid-3.png'
+  ],
+  category: 'design',
+  description: 'Retrato minimalista feito a partir da observação de uma amiga, com o desafio de capturar sua essência e estilo utilizando o mínimo de traços possível. O foco foi construir uma imagem expressiva e reconhecível com uma abordagem leve, explorando contornos simples e marcantes. A composição dá destaque ao chapéu com padrão xadrez e aos acessórios delicados, reforçando aspectos da personalidade da retratada. Desenvolvido com mesa digitalizadora e Adobe Photoshop. Este trabalho representa uma experimentação estilística voltada ao minimalismo.',
+  techs: [
+    'Mesa digitalizadora',
+    'Adobe Photoshop',
+    'Desenho de observação',
+    'Arte em linha',
+    'Estilo minimalista',
+    'Retrato digital'
+  ]
+}
 ]
