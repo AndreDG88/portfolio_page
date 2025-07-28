@@ -436,5 +436,231 @@ export const projects: Project[] = [
     'Estilo minimalista',
     'Retrato digital'
   ]
+},
+{
+  id: 'outdoor-cm-servicos',
+  title: 'Outdoor – C.M. Serviços',
+  image: '/media/projects/cm-servicos_outdoor_image-1.png',
+  gallery: [
+    '/media/projects/cm-servicos_outdoor_image-1.png',
+    '/media/projects/cm-servicos_outdoor_image-2.png',
+    '/media/projects/cm-servicos_outdoor_image-3.png',
+    '/media/projects/cm-servicos_outdoor_image-4.png',
+    '/media/projects/cm-servicos_outdoor_image-5.png',
+  ],
+  category: 'design',
+  description: 'Projeto gráfico desenvolvido para a empresa C.M. Serviços, especializada em conservação predial, portaria, segurança, limpeza e jardinagem. A peça foi criada para divulgação em outdoor, com foco na clareza visual e impacto imediato. O layout destaca cada serviço prestado por meio de composições fotográficas dinâmicas, cores segmentadas e uma organização que guia o olhar do público de forma fluida e objetiva. Também desenvolvi uma logomarca simples e funcional para atender à demanda do cliente, que ainda não possuía identidade visual. Além do design criativo, também fui responsável pelo preparo técnico do arquivo para produção gráfica, garantindo fidelidade de cores, resolução e acabamento para impressão em grande formato. O trabalho exigiu atenção à hierarquia de informação e adaptação ao contexto urbano e de alto tráfego visual onde a peça seria exibida.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Criação de logomarca',
+    'Tratamento de imagem',
+    'Preparação para impressão',
+    'Comunicação visual corporativa'
+  ]
+},
+{
+  id: 'dbup-producoes',
+  title: 'Identidade Visual – DBUP Produções',
+  image: '/media/projects/dbup_image-1.png',
+  gallery: [
+    '/media/projects/dbup_image-1.png',
+    '/media/projects/dbup_image-2.png',
+    '/media/projects/dbup_image-3.png',
+    '/media/projects/dbup_image-4.png',
+    '/media/projects/dbup_image-5.png',
+  ],
+  category: 'design',
+  description: 'Projeto de identidade visual desenvolvido para a DBUP Produções, estúdio voltado à assessoria e produção musical. A proposta da marca combina elementos gráficos modernos com forte ligação ao universo da música. O símbolo foi construído a partir da representação de uma clave de sol pixelada integrada a uma forma que remete a um gráfico de frequência sonora, transmitindo a essência digital e criativa do estúdio. Além da criação da logo principal, o trabalho envolveu o desenvolvimento de toda a identidade visual, incluindo padronização de tipográfia e aplicações práticas. Também foram elaboradas artes personalizadas para redes sociais e cartão de visitas, mantendo coesão para diferentes mídias. O projeto equilibra simplicidade, impacto visual e conexão direta com o segmento musical.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Design de logotipo',
+    'Identidade visual',
+    'Design para redes sociais',
+    'Cartão de visitas'
+  ]
+},
+{
+  id: 'proj-de-gente-revista',
+  title: 'Anúncio Editorial – Projeto de Gente',
+  image: '/media/projects/proj-de-gente-revista_image-1.png',
+  gallery: [
+    '/media/projects/proj-de-gente-revista_image-1.png',
+    '/media/projects/proj-de-gente-revista_image-2.png',
+    '/media/projects/proj-de-gente-revista_image-3.png',
+  ],
+  category: 'design',
+  description: 'Arte desenvolvida para o Projeto de Gente, marca especializada em mobiliário e decoração infantil. O layout foi criado especialmente para veiculação em página dupla de revista, com foco em impactar visualmente pais e responsáveis por meio de uma linguagem lúdica e afetiva. A composição valoriza cores vibrantes, formas orgânicas e elementos que remetem ao universo da infância. O projeto envolveu a criação visual completa, incluindo tratamento fotográfico no Photoshop, vetorização e composição gráfica no Illustrator, e finalização técnica no InDesign, com preparação para impressão em alta qualidade. O resultado final traduz os valores da marca, reforçando sua proposta de ambientes personalizados, funcionais e encantadores.',
+  techs: [
+    'Adobe InDesign',
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Design editorial',
+    'Publicidade impressa',
+    'Diagramação',
+    'Tratamento de imagem'
+  ]
+},
+{
+  id: 'os-jeds',
+  title: 'Os Jeds - Identidade Visual',
+  image: '/media/projects/os-jeds_image-1.png',
+  gallery: [
+    '/media/projects/os-jeds_image-1.png',
+    '/media/projects/os-jeds_image-2.png',
+    '/media/projects/os-jeds_image-3.png',
+  ],
+  category: 'design',
+  description: 'Identidade visual desenvolvida para a banda Os Jeds, com foco em transmitir uma imagem moderna, minimalista e marcante. O projeto incluiu a criação do logotipo principal, além de peças aplicadas para cartões de visita, redes sociais e materiais de divulgação. A composição gráfica aposta em tipografia personalizada com linhas estilizadas e um layout dinâmico em preto, branco, tons de cinza E pequenos elementos em verde. Reforçando a personalidade urbana e contemporânea da banda. Todo o processo foi desenvolvido com atenção à versatilidade da marca em diferentes aplicações físicas e digitais.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Identidade visual',
+    'Design de logotipo',
+    'Design para redes sociais'
+  ]
+},
+{
+  id: 'peludos-pet-sitter',
+  title: 'Peludos Pet Sitter – Identidade Visual',
+  image: '/media/projects/peludos_image-1.png',
+  gallery: [
+    '/media/projects/peludos_image-1.png',
+    '/media/projects/peludos_image-2.png',
+    '/media/projects/peludos_image-3.png',
+    '/media/projects/peludos_image-4.png'
+  ],
+  category: 'design',
+  description: 'Projeto completo de identidade visual desenvolvido para a "Peludos Pet Sitter", uma empresa especializada em cuidados personalizados para animais de estimação. O trabalho incluiu a criação da logo, identidade visual com paleta de cores e tipografia personalizada. Além do desenvolvimento de materiais promocionais como artes para redes sociais, flyer informativo e cartão de visitas. Toda a comunicação foi pensada para transmitir acolhimento, confiança e alegria, elementos essenciais no relacionamento entre o pet sitter, os animais e seus tutores. As ilustrações foram vetorizadas no Adobe Illustrator, e tratamento de imagens no Adobe Photoshop. Também preparei os arquivos finais para produção gráfica e uso digital, garantindo consistência e qualidade visual em todos os formatos de aplicação.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Criação de logotipo',
+    'Identidade visual',
+    'Design para redes sociais',
+    'Design de materiais impressos'
+  ]
+},
+{
+  id: 'parede-pequeno-principe',
+  title: 'Papel de parede do Pequeno Príncipe',
+  image: '/media/projects/peq-principe-parede_image-1.png',
+  gallery: [
+    '/media/projects/peq-principe-parede_image-1.png',
+    '/media/projects/peq-principe-parede_image-2.png',
+    '/media/projects/peq-principe-parede_image-3.png',
+    '/media/projects/peq-principe-parede_image-4.png'
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para um cliente da Projeto de Gente, que desejava personalizar uma parede com o tema do clássico literário "O Pequeno Príncipe". A proposta partiu de uma imagem de referência enviada pelo cliente, à qual se somaram pesquisas visuais adicionais feitas por mim, a fim de criar uma composição original e delicada. A arte final retrata o personagem em sua pequena estrela, ao lado da rosa, sob um céu estrelado com textura de lousa. Para compor a ilustração, utilizei o CorelDRAW na criação dos traços vetoriais, explorando um estilo minimalista e contínuo, e finalizei no Adobe Photoshop com tratamento de texturas, aplicação de cores sutis e inserção da famosa frase: "Tu te tornas eternamente responsável por aquilo que cativas". Após aprovação, também fui responsável pela preparação do arquivo para produção e impressão.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design de interiores',
+    'Arte vetorial personalizada',
+    'Preparação para impressão'
+  ]
+},
+{
+  id: 'parede-surf',
+  title: 'Surf na Parede – Ilustração Vetorial',
+  image: '/media/projects/ondas-vetor-parede_image-1.png',
+  gallery: [
+    '/media/projects/ondas-vetor-parede_image-1.png',
+    '/media/projects/ondas-vetor-parede_image-2.png',
+    '/media/projects/ondas-vetor-parede_image-3.png',
+    '/media/projects/ondas-vetor-parede_image-4.png',
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para um cliente da Projeto de Gente que desejava personalizar uma parede com uma arte inspirada na paixão do filho pelo surf. O cliente forneceu uma imagem de referência que guiou a criação da composição final. A proposta consistia em transformar essa referência em uma ilustração vetorial personalizada, adaptada para impressão em grande formato. A arte buscou capturar a leveza e fluidez das ondas do mar com traços orgânicos e harmônicos. O projeto foi desenvolvido no CorelDRAW, com finalização de cores, iluminação e ajustes no Adobe Photoshop. Após aprovação, também fui responsável pela preparação do arquivo para produção e impressão.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Ilustração vetorial',
+    'Design para ambientes',
+    'Adaptação para grande formato',
+    'Tratamento de imagem para impressão'
+  ]
+},
+{
+  id: 'quarto-tematico-selva',
+  title: 'Quarto Infantil Temático – Arte Selva',
+  image: '/media/projects/selva-vetor-parede_image-1.png',
+  gallery: [
+    '/media/projects/selva-vetor-parede_image-1.png',
+    '/media/projects/selva-vetor-parede_image-2.png',
+    '/media/projects/selva-vetor-parede_image-3.png',
+    '/media/projects/selva-vetor-parede_image-4.png'
+  ],
+  category: 'design',
+  description: 'Ilustração personalizada desenvolvida para aplicação em um quarto infantil com tema "selva", sob encomenda da equipe da Projeto de Gente. O cliente enviou uma imagem de referência que serviu de base para o conceito visual, e a partir dela foram realizadas pesquisas complementares para propor uma nova arte. Todo o layout foi pensado para se adaptar perfeitamente à marcenaria sob medida do ambiente, respeitando os recortes e volumes da mobília, como cama elevada, redes de proteção, e climatização. A composição apresenta uma cena lúdica com animais da floresta em estilo vetorial, criando um cenário acolhedor, divertido e estimulante para a criança. A arte foi inteiramente desenvolvida no CorelDRAW e o arquivo final foi cuidadosamente preparado para impressão em grande formato, respeitando margens de segurança, sangria e encaixes técnicos necessários para a produção.',
+  techs: [
+    'CorelDRAW',
+    'Ilustração vetorial',
+    'Design de ambientes',
+    'Criação de arte para impressão',
+    'Adequação a projeto'
+  ]
+},
+{
+  id: 'rialto-anuncio',
+  title: 'Rialto Ristorante – Anúncio Promocional para Revista',
+  image: '/media/projects/rialto-anuncio_image-1.png',
+  gallery: [
+    '/media/projects/rialto-anuncio_image-1.png',
+    '/media/projects/rialto-anuncio_image-2.png'
+  ],
+  category: 'design',
+  description: 'Criação de arte promocional para o restaurante Rialto, desenvolvida especialmente para publicação em revista impressa. O objetivo era divulgar o buffet variado da casa e atrair novos clientes com uma oferta de 10% de desconto. A composição visual traz elementos que remetem ao universo da gastronomia sofisticada, com destaque para a tipografia elegante, texturas clássicas de fundo e o prato sendo servido por uma mão com luva. Reforçando a ideia de atendimento refinado. As imagens foram tratadas no Adobe Photoshop para garantir qualidade de impressão, enquanto a diagramação e os elementos gráficos foram desenvolvidos no CorelDRAW. Todo o layout foi pensado para destacar as informações principais de forma clara e atrativa, dentro do padrão editorial da revista.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Tratamento de imagem',
+    'Design para mídia impressa',
+    'Anúncio publicitário',
+    'Composição promocional'
+  ]
+},
+{
+  id: 'convite-casamento',
+  title: 'Convite de Casamento – Raphael & Renata',
+  image: '/media/projects/convite-casamento_image-1.png',
+  gallery: [
+    '/media/projects/convite-casamento_image-1.png',
+    '/media/projects/convite-casamento_image-2.png',
+    '/media/projects/convite-casamento_image-3.png'
+  ],
+  category: 'design',
+  description: 'Desenvolvimento de convite personalizado para o casamento de Raphael & Renata, composto por arte impressa e envelope com design integrado. O conceito visual teve como inspiração o tema outono, representado pelas folhas alaranjadas e tons quentes que aparecem na composição, criando uma atmosfera romântica, natural e acolhedora. A identidade visual foi construída de forma a valorizar a união gráfica entre o envelope e o convite, formando uma peça coesa quando os dois elementos estão juntos. A diagramação e tipografia foram cuidadosamente escolhidas para equilibrar elegância e legibilidade, reforçando o estilo clássico do evento. A arte foi desenvolvida no Adobe InDesign, com tratamento de imagens e finalização no Adobe Photoshop. Todo o material foi preparado para impressão de alta qualidade, respeitando margens e formatos personalizados.',
+  techs: [
+    'Adobe InDesign',
+    'Adobe Photoshop',
+    'Design de logotipo',
+    'Convite personalizado',
+    'Identidade visual',
+    'Preparação para impressão'
+  ]
+},
+{
+  id: 'matsuda',
+  title: 'Associação Matsuda de Judô - Identidade Visual',
+  image: '/media/projects/matsuda-shiro_image-1.png',
+  gallery: [
+    '/media/projects/matsuda-shiro_image-1.png',
+    '/media/projects/matsuda-shiro_image-2.png',
+    '/media/projects/matsuda-shiro_image-3.png'
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para o Mestre Matsuda Shiro e a Associação Matsuda de Judô, com foco na criação de uma nova identidade visual para a entidade. O trabalho incluiu o redesign do logotipo, que incorpora elementos da cultura japonesa com traços modernos, além da criação de um modelo de cartão de visitas frente e verso, integrando símbolos tradicionais e informações funcionais com clareza e elegância. Também foi desenvolvida a arte para o flyer do evento "Iminkan Matsuri", comemorativo aos 110 anos da imigração japonesa no Brasil, respeitando a mesma linha visual da nova marca. O material foi pensado para fortalecer a presença institucional da associação e criar unidade visual entre os diferentes suportes. As peças foram produzidas utilizando Corel Draw e Photoshop, com finalização voltada para impressão e divulgação digital.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Criação de identidade visual',
+    'Design de logotipo',
+    'Design para eventos culturais',
+    'Design de materiais impressos',
+    'Preparação para impressão'
+  ]
 }
 ]
