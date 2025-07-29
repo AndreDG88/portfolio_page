@@ -10,7 +10,7 @@ const events = [
   {
     year: '2011',
     title: 'Graduação em Design Gráfico (UVA)',
-    description: 'Conclusão do curso na Universidade Veiga de Almeida. Aprofundamento na áre de design 2D e novo aprendizado na área 3D.'
+    description: 'Conclusão do curso na Universidade Veiga de Almeida. Aprofundamento na área de design 2D e novo aprendizado na área 3D.'
   },
   {
     year: '2014–2019',
