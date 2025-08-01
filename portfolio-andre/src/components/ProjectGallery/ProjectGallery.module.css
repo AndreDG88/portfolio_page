@@ -26,6 +26,14 @@
   transition: transform 0.3s;
 }
 
+.lightboxImage {
+  max-width: 90vw;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
 .overlay {
   position: absolute;
   top: 0;

@@ -100,7 +100,11 @@ function ProjectDetailDev() {
               <FaChevronLeft size={30} />
             </button>
 
-            <img src={project.gallery[selectedImageIndex]} alt="Ampliada" />
+            <img 
+              src={project.gallery[selectedImageIndex]} 
+              alt="Ampliada" 
+              className={styles.lightboxImage}
+            />
 
             <button className={styles.navBtn} onClick={handleNext}>
               <FaChevronRight size={30} />

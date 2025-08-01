@@ -662,5 +662,255 @@ export const projects: Project[] = [
     'Design de materiais impressos',
     'Preparação para impressão'
   ]
+},
+{
+  id: 'conceito-catalogo',
+  title: 'Conceito Sinalização – Catálogo Apresentativo',
+  image: '/media/projects/conceito-catalogo_image-1.png',
+  gallery: [
+    '/media/projects/conceito-catalogo_image-1.png',
+    '/media/projects/conceito-catalogo_image-2.png',
+    '/media/projects/conceito-catalogo_image-3.png',
+    '/media/projects/conceito-catalogo_image-4.png',
+    '/media/projects/conceito-catalogo_image-5.png'
+  ],
+  category: 'design',
+  description: 'Este projeto foi desenvolvido para a Conceito Sinalização, empresa especializada em comunicação visual. O objetivo era criar um catálogo institucional com visual moderno e informativo, reunindo os principais serviços, portfólio de trabalhos, diferenciais e formas de contato. O material foi pensado para uso impresso, como apoio a apresentações comerciais, e também para distribuição digital por e-mail marketing. A diagramação foi organizada em capítulos temáticos (sinalização, gráfica, brindes, design entre outros), com elementos gráficos personalizados, ícones e imagens reais de projetos executados pela empresa. Todo o conteúdo foi editado e revisado para transmitir profissionalismo e reforçar a identidade visual da marca.',
+  techs: [
+    'Design editorial',
+    'Diagramação de catálogo',
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Identidade visual',
+    'Apresentação comercial',
+    'Comunicação visual',
+    'Marketing institucional'
+  ]
+},
+{
+  id: 'la-fornata',
+  title: 'La Fornata – Identidade Visual e Fachada',
+  image: '/media/projects/la-fornata-sinalizacao_image-1.png',
+  gallery: [
+    '/media/projects/la-fornata-sinalizacao_image-1.png',
+    '/media/projects/la-fornata-sinalizacao_image-2.png',
+    '/media/projects/la-fornata-sinalizacao_image-3.png'
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para a panificadora La Fornata, com foco na criação de uma nova identidade visual para a marca. O trabalho incluiu o redesign completo do logotipo, buscando transmitir um conceito artesanal e acolhedor, alinhado à proposta de pães e doces tradicionais. A partir dessa identidade, foram desenvolvidas duas artes exclusivas para aplicação na fachada da loja. As peças foram adaptadas para impressão em lona com alta resolução, explorando ilustrações temáticas, texturas que remetem ao papel kraft e imagens que valorizam o processo de fabricação artesanal. Todo o visual foi pensado para reforçar a presença da marca no ponto de venda e atrair o público pela estética convidativa.',
+  techs: [
+    'Identidade visual',
+    'Design de fachada',
+    'Desenvolvimento de logo',
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Comunicação visual para PDV'
+  ]
+},
+{
+  id: 'dungeon-store',
+  title: 'Dungeon Store – Identidade Visual Nerd/Geek',
+  image: '/media/projects/dungeon-store_image-1.png',
+  gallery: [
+    '/media/projects/dungeon-store_image-1.png',
+    '/media/projects/dungeon-store_image-2.png',
+    '/media/projects/dungeon-store_image-3.png',
+    '/media/projects/dungeon-store_image-4.png',
+    '/media/projects/dungeon-store_image-5.png',
+    '/media/projects/dungeon-store_image-6.png',
+    '/media/projects/dungeon-store_image-7.png',
+    '/media/projects/dungeon-store_image-8.png'
+  ],
+  category: 'design',
+  description: 'Desenvolvimento completo da identidade visual para a Dungeon Store, uma loja voltada ao público nerd, geek e otaku. O projeto começou com a criação do logotipo, que traz elementos de fantasia e aventura, como um dragão estilizado, remetendo a universos de RPG e cultura pop. A identidade visual foi expandida para diversos materiais, incluindo fachada da loja, uniformes personalizados, cartões de visita e artes para redes sociais. Todo o conceito gráfico foi pensado para dialogar com o público-alvo, transmitindo uma estética épica e envolvente, ao mesmo tempo em que se manteve funcional para aplicações comerciais.',
+  techs: [
+    'Identidade visual',
+    'Design geek/nerd',
+    'Criação de logotipo',
+    'Design de fachada comercial',
+    'Design de Uniformes',
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Design para redes sociais'
+  ]
+},
+{
+  id: 'logotipo-ledi-e-lu-doces',
+  title: 'Ledi & Lú Doces – Identidade Visual',
+  image: '/media/projects/ledi-e-lu_image-1.png',
+  gallery: [
+    '/media/projects/ledi-e-lu_image-1.png',
+    '/media/projects/ledi-e-lu_image-2.png',
+    '/media/projects/ledi-e-lu_image-3.png',
+    '/media/projects/ledi-e-lu_image-4.png'
+  ],
+  category: 'design',
+  description: 'Criação de logotipo para uma dupla de confeiteiras que atuam em feirinhas e eventos locais. O projeto teve como objetivo transmitir a essência artesanal e acolhedora da marca, com uma estética doce e convidativa. A arte foi desenvolvida no CorelDRAW, combinando elementos ilustrativos de confeitaria com uma tipografia amigável e fluida. O destaque vai para o uso de cores suaves e detalhes que remetem a coberturas e doces, reforçando o apelo visual do segmento de atuação. A entrega incluiu versões em alta resolução para impressão e uso digital.',
+  techs: [
+    'CorelDRAW',
+    'Design de logotipo',
+    'Identidade visual',
+    'Ilustração vetorial',
+    'Tipografia personalizada'
+  ]
+},
+{
+  id: 'clube-conceito-logo-identidade',
+  title: 'Clube Conceito – Identidade Visual',
+  image: '/media/projects/clube-conceito_image-1.png',
+  gallery: [
+    '/media/projects/clube-conceito_image-1.png',
+    '/media/projects/clube-conceito_image-2.png',
+    '/media/projects/clube-conceito_image-3.png'
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para a empresa Conceito Sinalização, com foco na criação de uma identidade visual exclusiva para o “Clube Conceito”, um programa de vantagens voltado aos clientes VIPs da marca. A proposta consistiu em desenvolver uma variante do logotipo principal da empresa, mantendo a conexão visual com a marca original, mas com um toque mais sofisticado e premium. O design aposta em elementos metálicos dourados, remetendo à exclusividade, confiança e valor agregado. A aplicação da marca foi pensada para materiais impressos e digitais, respeitando a identidade da Conceito Sinalização enquanto cria uma linguagem própria para o novo serviço.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design de logotipo',
+    'Identidade visual corporativa',
+    'Criação de submarca',
+    'Branding'
+  ]
+},
+{
+  id: 'modelos-convites',
+  title: 'Modelos de Convites Personalizados – Conceito Sinalização',
+  image: '/media/projects/convites-conceito_image-1.png',
+  gallery: [
+    '/media/projects/convites-conceito_image-1.png',
+    '/media/projects/convites-conceito_image-2.png',
+    '/media/projects/convites-conceito_image-3.png',
+    '/media/projects/convites-conceito_image-4.png',
+    '/media/projects/convites-conceito_image-5.png',
+    '/media/projects/convites-conceito_image-6.png'
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para a Conceito Sinalização com o objetivo de montar um banco de modelos pré-formatados de convites personalizados. A proposta era oferecer aos clientes uma variedade de opções prontas, facilitando a escolha quando não houvesse uma ideia clara para o design. Os modelos foram elaborados com layout flexível, permitindo a rápida substituição de textos, imagens e, quando necessário, adaptações de cores. A coleção abrange diferentes estilos e ocasiões, otimizando o processo de criação e entrega de materiais gráficos sob demanda.',
+  techs: [
+    'CorelDRAW',
+    'Design gráfico',
+    'Diagramação',
+    'Design editorial',
+    'Personalização de convites',
+    'Material promocional',
+    'Produção gráfica sob demanda'
+  ]
+},
+{
+  id: 'conceito-fachada-acm',
+  title: 'Conceito Soluções – Projeto de fachasda',
+  image: '/media/projects/conceito-fachada_image-1.png',
+  gallery: [
+    '/media/projects/conceito-fachada_image-1.png',
+    '/media/projects/conceito-fachada_image-2.png',
+    '/media/projects/conceito-fachada_image-3.png',
+    '/media/projects/conceito-fachada_image-4.png',
+    '/media/projects/conceito-fachada_image-5.png',
+    '/media/projects/conceito-fachada_image-6.png'
+  ],
+  category: 'design',
+  description: 'Projeto desenvolvido para a Conceito Sinalização, que havia adquirido um novo espaço e precisava de uma fachada moderna e impactante. A proposta foi baseada na identidade visual da marca, utilizando revestimento em ACM nas cores institucionais, aplicação de adesivo vinil em pontos estratégicos e letreiros luminosos (backlight) com o logotipo e slogan da empresa. O objetivo era transformar completamente o visual do imóvel, reforçando a presença da marca na região e transmitindo profissionalismo e inovação. Todo o projeto foi planejado considerando viabilidade de produção e instalação.',
+  techs: [
+    'CorelDRAW',
+    'Projeto 3D',
+    'Design de fachada comercial',
+    'Identidade visual aplicada',
+    'Projeto executivo para produção',
+    'Comunicação visual'
+  ]
+},
+{
+  id: 'conceito-impulsione-vendas-social',
+  title: 'Impulsione Suas Vendas – Arte para Mídia Social',
+  image: '/media/projects/conceito-impulsione-vendas_image-1.png',
+  gallery: [
+    '/media/projects/conceito-impulsione-vendas_image-1.png',
+    '/media/projects/conceito-impulsione-vendas_image-2.png'
+  ],
+  category: 'design',
+  description: 'Arte desenvolvida para a Conceito Sinalização com o objetivo de promover uma campanha de cartões de visita nas redes sociais. A peça gráfica foi pensada para ser visualmente atrativa e direta, utilizando elementos ilustrativos e um layout dinâmico para destacar a oferta promocional. A composição inclui um personagem estilizado em um foguete, representando o impulso nos negócios que o cliente pode obter. O design foi desenvolvido no Adobe Illustrator, com finalização e ajustes visuais no Adobe Photoshop.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Design gráfico para redes sociais',
+    'Promoção visual',
+    'Comunicação publicitária',
+    'Composição digital'
+  ]
+},
+{
+  id: 'conceito-promocao-panfletos',
+  title: 'Promoção Panfletos – Arte para Mídia Social',
+  image: '/media/projects/conceito-promocao-vendas_image-1.png',
+  gallery: [
+    '/media/projects/conceito-promocao-vendas_image-1.png',
+    '/media/projects/conceito-promocao-vendas_image-2.png'
+  ],
+  category: 'design',
+  description: 'Arte desenvolvida para a Conceito Sinalização com o objetivo de divulgar uma promoção de panfletos nas redes sociais. A peça foi criada para ter forte impacto visual, destacando os principais elementos da oferta de forma direta e atrativa. A composição simula uma mão segurando o panfleto em um cenário urbano desfocado, reforçando a ideia de alcance e proximidade com o público. O layout foi desenvolvido no Adobe Illustrator com finalização e tratamento visual no Adobe Photoshop.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Design gráfico para redes sociais',
+    'Promoção visual',
+    'Composição com mockup realista',
+    'Comunicação publicitária'
+  ]
+},
+{
+  id: 'fusion-brindes-colecao',
+  title: 'Fusion Brindes - Coleção de Artes Comemorativas',
+  image: '/media/projects/fusion-email-marketing_image-1.png',
+  gallery: [
+    '/media/projects/fusion-email-marketing_image-1.png',
+    '/media/projects/fusion-email-marketing_image-2.png',
+    '/media/projects/fusion-email-marketing_image-3.png',
+    '/media/projects/fusion-email-marketing_image-4.png',
+    '/media/projects/fusion-email-marketing_image-5.png',
+    '/media/projects/fusion-email-marketing_image-6.png',
+    '/media/projects/fusion-email-marketing_image-7.png',
+    '/media/projects/fusion-email-marketing_image-8.png',
+    '/media/projects/fusion-email-marketing_image-9.png',
+    '/media/projects/fusion-email-marketing_image-10.png',
+    '/media/projects/fusion-email-marketing_image-11.png',
+    '/media/projects/fusion-email-marketing_image-12.png',
+    '/media/projects/fusion-email-marketing_image-13.png',
+    '/media/projects/fusion-email-marketing_image-14.png',
+    '/media/projects/fusion-email-marketing_image-15.png'
+  ],
+  category: 'design',
+  description: 'Coleção de peças gráficas desenvolvidas para a Fusion Presentes Corporativos, voltadas para campanhas de datas comemorativas e eventos especiais. As artes foram utilizadas em campanhas de e-mail marketing e redes sociais, com foco na divulgação de brindes personalizados. Cada layout foi desenvolvido com identidade visual própria, adaptando-se ao tema de cada data como São João, Dia das Crianças, Olimpíadas, Dia do Cliente, entre outras. O trabalho envolveu criatividade, planejamento visual e adaptação para diferentes canais de comunicação.',
+  techs: [
+    'Adobe Illustrator',
+    'Adobe Photoshop',
+    'Design para campanhas sazonais',
+    'Marketing digital',
+    'Criação para e-mail marketing',
+    'Composição temática',
+    'Design gráfico promocional',
+    'Identidade visual'
+  ]
+},
+{
+  id: 'nosso-boteco-cardapio',
+  title: 'Nosso Boteco - Cardápio',
+  image: '/media/projects/nosso-boneco_image-1.png',
+  gallery: [
+    '/media/projects/nosso-boneco_image-1.png',
+    '/media/projects/nosso-boneco_image-2.png',
+    '/media/projects/nosso-boneco_image-3.png'
+  ],
+  category: 'design',
+  description: 'Criação do novo cardápio frente e verso para o bar Nosso Boteco. A arte foi desenvolvida com foco em uma leitura clara e visualmente atrativa, organizada por categorias de produtos (petiscos, bebidas, porções, etc.). O material foi finalizado para impressão PS com laminação, garantindo maior durabilidade e aparência profissional. Um projeto gráfico funcional, pensado para melhorar a experiência dos clientes no local.',
+  techs: [
+    'Adobe Photoshop',
+    'Diagramação',
+    'Design gráfico',
+    'Design editorial',
+    'Material impresso',
+    'Identidade visual'
+  ]
 }
 ]
