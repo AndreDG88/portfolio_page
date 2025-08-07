@@ -3,6 +3,7 @@ export type Project = {
   title: string
   image: string
   gallery?: string[]
+  videos?: string[]
   category: 'dev' | 'design'
   description: string
   techs?: string[]
@@ -1045,6 +1046,9 @@ export const projects: Project[] = [
     '/media/projects/recurso-esgotado_image-10.png',
     '/media/projects/recurso-esgotado_image-11.png',
     '/media/projects/recurso-esgotado_image-12.png'
+  ],
+  videos: [
+    '/media/projects/recurso-esgotado_video-1.mp4'
   ],
   category: 'design',
   description: '“Recurso Esgotado” é um curta-metragem de animação 3D desenvolvido como projeto de conclusão de curso em parceria com um colega de graduação. O filme, que aborda de forma sensível e simbólica questões sociais e ambientais, percorreu todas as etapas clássicas da produção em animação: pesquisa, elaboração de roteiro, desenvolvimento de storyboard, concepção visual e pesquisa de arte, produção de concepts, modelagem e texturização de personagens e cenários, rigging, iluminação, animação, renderização e pós-produção. Todo o processo foi documentado em um art book e um manual de identidade visual, incluindo também peças gráficas como pôsteres e materiais impressos promocionais. No ano seguinte à sua conclusão, o projeto foi para exibição no festival de animação Anima Mundi, consolidando sua relevância e qualidade no cenário independente.',

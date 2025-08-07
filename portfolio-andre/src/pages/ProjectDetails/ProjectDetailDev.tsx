@@ -77,6 +77,24 @@ function ProjectDetailDev() {
         )}
       </div>
 
+      {project.videos && project.videos.length > 0 && (
+        <div className={styles.videoSection}>
+          <h2>Vídeos do Projeto</h2>
+          <div className={styles.videoGallery}>
+            {project.videos.map((videoUrl, index) => (
+              <video
+                key={index}
+                controls
+                className={styles.video}
+                src={videoUrl}
+              >
+                Seu navegador não suporta vídeo.
+              </video>
+            ))}
+          </div>
+        </div>
+      )}
+
       <div className={styles.links}>
         {project.github && (
           <a href={project.github} target="_blank" rel="noopener noreferrer">

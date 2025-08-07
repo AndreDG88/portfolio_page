@@ -131,6 +131,34 @@
   opacity: 1;
 }
 
+.videoSection {
+  max-width: 1200px;
+  margin: 1rem auto;
+  text-align: center;
+  padding: 0 1.5rem;
+  color: #fff;
+}
+
+.videoSection h2 {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.videoGallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  justify-content: center;
+}
+
+.video {
+  width: 100%;
+  max-height: 400px;
+  border-radius: 10px;
+  background: #000;
+  margin-bottom: 2rem;
+}
+
 .lightbox {
   position: fixed;
   top: 0;

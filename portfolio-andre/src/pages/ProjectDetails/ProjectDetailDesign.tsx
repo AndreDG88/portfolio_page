@@ -77,6 +77,24 @@ function ProjectDetailDesign() {
         )}
       </div>
 
+      {project.videos && project.videos.length > 0 && (
+        <div className={styles.videoSection}>
+          <h2>Vídeos do Projeto</h2>
+          <div className={styles.videoGallery}>
+            {project.videos.map((videoUrl, index) => (
+              <video
+                key={index}
+                controls
+                className={styles.video}
+                src={videoUrl}
+              >
+                Seu navegador não suporta vídeo.
+              </video>
+            ))}
+          </div>
+        </div>
+      )}
+
       {selectedImageIndex !== null && project.gallery && project.gallery[selectedImageIndex] && (
         <div className={styles.lightbox}>
           <button className={styles.closeBtn} onClick={() => setSelectedImageIndex(null)}>
