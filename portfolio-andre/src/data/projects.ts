@@ -912,5 +912,154 @@ export const projects: Project[] = [
     'Material impresso',
     'Identidade visual'
   ]
+},
+{
+  id: 'sonhos-acai-identidade',
+  title: 'Sonhos & Açaí – Identidade Visual e Sinalização',
+  image: '/media/projects/sonhos-acai_image-1.png',
+  gallery: [
+    '/media/projects/sonhos-acai_image-1.png',
+    '/media/projects/sonhos-acai_image-2.png',
+    '/media/projects/sonhos-acai_image-3.png'
+  ],
+  category: 'design',
+  description: 'Projeto de identidade visual e ambientação para a lanchonete Sonhos & Açaí. O trabalho envolveu a criação do logotipo e toda a linguagem visual da marca, incluindo paleta de cores, tipografia e elementos gráficos personalizados. A identidade foi aplicada na fachada da loja com layouts adaptados para testeira frontlight, totem luminoso, janelas personalizadas e lonas impressas no deck, valorizando o apelo gastronômico com imagens e ícones temáticos. O desenvolvimento foi realizado no CorelDRAW, com finalização técnica voltada para produção em adesivo e impressão de grande formato. A proposta buscou unir uma estética vibrante com soluções funcionais de sinalização visual para ponto de venda.',
+  techs: [
+    'Identidade visual',
+    'Criação de logotipo',
+    'Design para fachada comercial',
+    'Comunicação visual para PDV',
+    'CorelDRAW',
+    'Arte para impressão em grande formato',
+    'Adesivação de ambientes'
+  ]
+},
+{
+  id: 'projeto-varanda-3d',
+  title: 'Varanda – Maquete Eletrônica 3D',
+  image: '/media/projects/projeto-varanda_image-1.png',
+  gallery: [
+    '/media/projects/projeto-varanda_image-1.png',
+    '/media/projects/projeto-varanda_image-2.png',
+    '/media/projects/projeto-varanda_image-3.png',
+    '/media/projects/projeto-varanda_image-4.png',
+    '/media/projects/projeto-varanda_image-5.png'
+  ],
+  category: 'design',
+  description: 'Modelagem e renderização de ambiente interno residencial, com foco em composição, iluminação e realismo de materiais. A proposta deste projeto foi simular um espaço de varanda personalizada, com atmosfera aconchegante e iluminação natural abundante. O ambiente conta com mobiliário em madeira, assentos com almofadas coloridas, piano de cauda e detalhes decorativos que reforçam o clima intimista. Os renders foram produzidos em versões diurna e noturna para explorar diferentes comportamentos de luz e sombra. Todo o processo de modelagem, texturização, iluminação e render foi desenvolvido no 3ds Max Studio, com especial atenção ao equilíbrio e ao realismo na ambientação.',
+  techs: [
+    'Maquete eletrônica',
+    'Modelagem 3D',
+    'Renderização',
+    'Texturização realista',
+    'Simulação de iluminação',
+    'Design de interiores',
+    '3ds Max Studio',
+    'Composição de cena',
+    'Visualização arquitetônica'
+  ]
+},
+{
+  id: 'projeto-palco-3d',
+  title: 'Cenografia – Palco para Programa de Auditório',
+  image: '/media/projects/projeto-palco_image-1.png',
+  gallery: [
+    '/media/projects/projeto-palco_image-1.png',
+    '/media/projects/projeto-palco_image-2.png',
+    '/media/projects/projeto-palco_image-3.png',
+    '/media/projects/projeto-palco_image-4.png',
+    '/media/projects/projeto-palco_image-5.png'
+  ],
+  category: 'design',
+  description: 'Projeto de cenografia digital para um programa de auditório com temática infantil e lúdica. O cenário foi desenvolvido a partir da planta fornecida por um arquiteto parceiro e modelado integralmente em 3D no 3ds Max Studio. A proposta visual explora formas orgânicas, cores vibrantes, elementos flutuantes e uma composição que remete a um universo de imaginação e aprendizado. Entre os destaques estão o globo com estrada em perspectiva, a parede interativa com formas geométricas e o teto com painéis suspensos. Para enriquecer o realismo e a profundidade das imagens, os renders receberam tratamento final com ambient occlusion aplicado no Photoshop.',
+  techs: [
+    'Maquete eletrônica',
+    'Modelagem 3D',
+    'Renderização',
+    'Texturização realista',
+    'Simulação de iluminação',
+    'Ambient occlusion',
+    '3ds Max Studio',
+    'Render com pós-produção',
+    'Composição cenográfica'
+  ]
+},
+{
+  id: 'jan-tattoo-painel',
+  title: 'Studio Jan Tattoo - Painel Decorativo',
+  image: '/media/projects/jan-tatto_image-1.png',
+  gallery: [
+    '/media/projects/jan-tatto_image-1.png',
+    '/media/projects/jan-tatto_image-2.png'
+  ],
+  category: 'design',
+  description: 'Criação de imagem conceitual para painel decorativo de um estúdio de tatuagem. A composição apresenta a logomarca da Jan Tattoo — uma caveira estilizada — modelada em 3D para simular uma peça em relevo de alumínio polido vermelho, aplicada sobre uma superfície branca fosca. A iluminação foi cuidadosamente trabalhada com um spot de luz direcional para acentuar sombras e brilhos, conferindo realismo ao material. Após o render final, a tipografia foi aplicada via Photoshop, respeitando o estilo urbano e expressivo do estúdio. O resultado é uma peça visual impactante e moderna, pensada para integrar o ambiente interno com identidade e personalidade.',
+  techs: [
+    'Modelagem 3D',
+    'Simulação de iluminação',
+    'Render com iluminação realista',
+    'Simulação de materiais',
+    'Composição visual',
+    '3ds Max Studio',
+    'Photoshop'
+  ]
+},
+{
+  id: 'conceito-recepcao-3d',
+  title: 'Conceito Sinalização – Maquete 3D de Recepção',
+  image: '/media/projects/conceito-recepcao_image-1.png',
+  gallery: [
+    '/media/projects/conceito-recepcao_image-1.png',
+    '/media/projects/conceito-recepcao_image-2.png',
+    '/media/projects/conceito-recepcao_image-3.png',
+    '/media/projects/conceito-recepcao_image-4.png',
+    '/media/projects/conceito-recepcao_image-5.png',
+    '/media/projects/conceito-recepcao_image-6.png'
+  ],
+  category: 'design',
+  description: 'Projeto de maquete eletrônica 3D desenvolvido para a Conceito Sinalização, com foco na remodelação da recepção de uma de suas lojas. A proposta foi criar duas opções de layout para o espaço, levando em consideração estética moderna e funcionalidade. Foram utilizados recursos avançados de iluminação e texturização no 3ds Max Studio para garantir um resultado visual realista, simulando fielmente a incidência de luz solar natural que atinge o ambiente durante o expediente, devido às amplas vitrines e portas de vidro.',
+  techs: [
+    'Modelagem 3D',
+    'Design de interiores',
+    'Render realista',
+    '3ds Max Studio',
+    'Simulação de iluminação',
+    'Ambient occlusion',
+    'Simulação de texturas'
+  ]
+},
+{
+  id: 'recurso-esgotado',
+  title: 'Recurso Esgotado - Curta-metragem',
+  image: '/media/projects/recurso-esgotado_image-1.png',
+  gallery: [
+    '/media/projects/recurso-esgotado_image-1.png',
+    '/media/projects/recurso-esgotado_image-2.png',
+    '/media/projects/recurso-esgotado_image-3.png',
+    '/media/projects/recurso-esgotado_image-4.png',
+    '/media/projects/recurso-esgotado_image-5.png',
+    '/media/projects/recurso-esgotado_image-6.png',
+    '/media/projects/recurso-esgotado_image-7.png',
+    '/media/projects/recurso-esgotado_image-8.png',
+    '/media/projects/recurso-esgotado_image-9.png',
+    '/media/projects/recurso-esgotado_image-10.png',
+    '/media/projects/recurso-esgotado_image-11.png',
+    '/media/projects/recurso-esgotado_image-12.png'
+  ],
+  category: 'design',
+  description: '“Recurso Esgotado” é um curta-metragem de animação 3D desenvolvido como projeto de conclusão de curso em parceria com um colega de graduação. O filme, que aborda de forma sensível e simbólica questões sociais e ambientais, percorreu todas as etapas clássicas da produção em animação: pesquisa, elaboração de roteiro, desenvolvimento de storyboard, concepção visual e pesquisa de arte, produção de concepts, modelagem e texturização de personagens e cenários, rigging, iluminação, animação, renderização e pós-produção. Todo o processo foi documentado em um art book e um manual de identidade visual, incluindo também peças gráficas como pôsteres e materiais impressos promocionais. No ano seguinte à sua conclusão, o projeto foi para exibição no festival de animação Anima Mundi, consolidando sua relevância e qualidade no cenário independente.',
+  techs: [
+    'Animação 3D',
+    'Modelagem e texturização',
+    'Roteiro e storyboard',
+    'Concept art',
+    'Rigging de personagens',
+    'Iluminação e render',
+    'Pós-produção audiovisual',
+    'Produção',
+    'Art book',
+    'identidade visual',
+    'Materiais impressos'
+  ]
 }
 ]
