@@ -13,6 +13,33 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+  id: 'jogo-ciclo-agua',
+  title: 'Desafio do Ciclo da Água',
+  image: '/media/projects/jogo-ciclo-agua_image-1.png',
+  gallery: [
+    '/media/projects/jogo-ciclo-agua_image-1.png',
+    '/media/projects/jogo-ciclo-agua_image-2.png',
+    '/media/projects/jogo-ciclo-agua_image-3.png',
+    '/media/projects/jogo-ciclo-agua_image-4.png',
+    '/media/projects/jogo-ciclo-agua_image-5.png',
+    '/media/projects/jogo-ciclo-agua_image-6.png',
+    '/media/projects/jogo-ciclo-agua_image-7.png'
+  ],
+  category: 'dev',
+  description: 'O "Desafio do Ciclo da Água" é um jogo educativo interativo desenvolvido em HTML, CSS e JavaScript. Ele desafia os jogadores a responderem perguntas sobre o ciclo da água, seus estados físicos, importância ambiental e impactos da poluição, dentro de um tempo limite de 90 segundos. O projeto conta com cronômetro, sistema de pontuação, feedback visual imediato para respostas corretas e incorretas, além de uma interface leve, colorida e responsiva. Criado com foco em conscientização e educação ambiental, pode ser utilizado em escolas e projetos de sustentabilidade.',
+  techs: [
+    'HTML5',
+    'CSS3',
+    'JavaScript',
+    'Gamificação',
+    'Design responsivo',
+    'Feedback interativo',
+    'Educação ambiental'
+  ],
+  github: 'https://github.com/AndreDG88/ciclo_da_agua-jogo_educativo',
+  vercel: 'https://ciclo-da-agua-jogo-educativo.vercel.app/'
+  },
+  {
     id: 'troca-uma-ideia',
     title: 'Troca uma Ideia!',
     image: '/media/projects/troca-uma-ideia_image-1.png',
@@ -254,6 +281,32 @@ export const projects: Project[] = [
     vercel: 'https://ebac-projeto-calculadora-medias-phi.vercel.app/'
   },
   // A PARTIR DESTA PARTE SÃO SÓ PROJETOS DE DESIGN E ILUSTRAÇÃO ###################################################################################################################################################################################################################
+  {
+  id: 'gralha-azul',
+  title: 'Gralha Azul - Carrossel Instagram',
+  image: '/media/projects/gralha-azul_image-1.png',
+  gallery: [
+    '/media/projects/gralha-azul_image-1.png',
+    '/media/projects/gralha-azul_image-2.png',
+    '/media/projects/gralha-azul_image-3.png',
+    '/media/projects/gralha-azul_image-4.png',
+    '/media/projects/gralha-azul_image-5.png',
+    '/media/projects/gralha-azul_image-6.png',
+    '/media/projects/gralha-azul_image-7.png'
+  ],
+  category: 'design',
+  description: 'O projeto Gralha Azul, consiste em um carrossel de seis imagens desenvolvidas para divulgação da marca no Instagram. As peças foram criadas com foco em apresentar a tradição da empresa, sua estrutura física, a inovação em produtos, a possibilidade de personalização, os diferenciais de qualidade e a localização do showroom. O design segue uma identidade visual consistente e moderna, utilizando composição de imagens, cores institucionais e tipografia de impacto, reforçando a credibilidade e a proximidade da marca com seu público.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
   {
     id: 'one-piece',
     title: 'Monkey D. Luffy – Ilustração em Visual Alternativo',
