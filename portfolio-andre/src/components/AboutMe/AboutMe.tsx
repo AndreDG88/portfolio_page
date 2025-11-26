@@ -27,15 +27,11 @@ function AboutMe() {
         transition={{ duration: 3.0 }}
         >
           <p>
-            Desenvolvedor Full Stack com foco em Python e uma sólida formação em Design Gráfico.
-            Minha trajetória começou no universo criativo, atuando por mais de 18 anos com identidade visual, sinalização e ilustração, e evoluiu naturalmente para a tecnologia.
-            Onde hoje desenvolvo soluções que combinam funcionalidade, estética e experiência de usuário.
+            Sou Designer Gráfico com mais de 18 anos de experiência em identidade visual, comunicação visual e ilustração. Minha trajetória sempre uniu criatividade, técnica e atenção aos detalhes. Além do design, também atuo como Desenvolvedor Full Stack, o que amplia minha visão sobre usabilidade, estrutura e funcionalidade em projetos digitais.
           </p>
 
           <p>
-            Me graduei em Design pela UVA e me especializei em Desenvolvimento Full Stack pela EBAC, onde aprofundei conhecimentos nas mais diversas técnologoias, 
-            como React, TypeScript, Python, Django e Docker. Além de ferramentas que auxiliam o trabalho em equipe, como o Git.
-            Essa formação híbrida me permite pensar projetos de forma completa, do conceito visual à entrega técnica.
+            Sou formado em Design pela UVA e em Desenvolvimento Full Stack pela EBAC. Domino ferramentas como Photoshop, Illustrator, Corel Draw e 3D Max Studio, além de tecnologias como React, TypeScript, Python e Django. Essa combinação me permite criar soluções completas, do conceito visual ao produto digital final.
           </p>
         </motion.div>
 
@@ -70,7 +66,7 @@ function AboutMe() {
           </p>
 
           <p>
-            Tenho afinidade com interfaces, UI/UX e aplicações web responsivas. Entre meus projetos, estão redes sociais, sistemas de cadastro, portais visuais e
+            Gosto de desenvolver identidades, interfaces, materiais institucionais e projetos de sinalização. Entre meus projetos, estão redes sociais, sistemas de cadastro, portais visuais e
             experimentações em 3D e animação. Busco oportunidades em que eu possa crescer como desenvolvedor, contribuir com time e aprender continuamente.
           </p>
         </motion.div>
