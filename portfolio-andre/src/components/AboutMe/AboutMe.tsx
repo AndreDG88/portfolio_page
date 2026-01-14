@@ -35,7 +35,7 @@ function AboutMe() {
           </p>
         </motion.div>
 
-        <div className={styles.stats}>
+        {/* <div className={styles.stats}>
           <img
             loading="lazy"
             height="180em"
@@ -48,7 +48,7 @@ function AboutMe() {
             src="https://github-readme-stats.vercel.app/api?username=AndreDG88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
             alt="GitHub Stats"
           />
-        </div>
+        </div> */}
       </div>
 
         <Timeline />
