@@ -14,6 +14,297 @@ export type Project = {
 export const projects: Project[] = [
   // A PARTIR DESTA PARTE SÃO SÓ PROJETOS DE DESIGN GRÁFICO ###################################################################################################################################################################################################################
   {
+  id: 'posicionamento-digital',
+  title: 'Posicionamento Digital e Autoridade — Carrossel Instagram',
+  image: '/media/projects/perso-lettering04_image-1.png',
+  gallery: [
+    '/media/projects/perso-lettering04_image-1.png',
+    '/media/projects/perso-lettering04_image-2.png',
+    '/media/projects/perso-lettering04_image-3.png',
+    '/media/projects/perso-lettering04_image-4.png',
+    '/media/projects/perso-lettering04_image-5.png',
+    '/media/projects/perso-lettering04_image-6.png',
+    '/media/projects/perso-lettering04_image-7.png',
+    '/media/projects/perso-lettering04_image-8.png',
+    '/media/projects/perso-lettering04_image-9.png',
+    '/media/projects/perso-lettering04_image-10.png',
+    '/media/projects/perso-lettering04_image-11.png'
+  ],
+  category: 'design',
+  description: 'Este projeto consiste em um carrossel desenvolvido para Instagram com foco em posicionamento digital e construção de autoridade para uma marca da área da saúde. As artes foram pensadas para apresentar uma narrativa visual clara e estratégica, utilizando a combinação de imagens pessoais, capturas de tela, elementos gráficos e blocos de texto bem definidos. O design valoriza a organização da informação, trabalhando hierarquia tipográfica, espaçamentos e contrastes para facilitar a leitura em dispositivos móveis. A paleta de cores suaves transmite profissionalismo e acolhimento, enquanto os elementos gráficos reforçam a identidade visual da marca de forma consistente ao longo dos slides. As composições exploram alinhamentos, grids e sobreposição de imagens para criar ritmo visual e conduzir o olhar do usuário durante o carrossel. O projeto evidencia o cuidado estético aliado à estratégia de conteúdo, demonstrando como o design pode fortalecer a percepção de credibilidade, clareza e presença digital de forma coesa e bem construída.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'lettering-evolucao',
+  title: 'Evolução no Lettering — Carrossel Instagram',
+  image: '/media/projects/perso-lettering03_image-1.png',
+  gallery: [
+    '/media/projects/perso-lettering03_image-1.png',
+    '/media/projects/perso-lettering03_image-2.png',
+    '/media/projects/perso-lettering03_image-3.png',
+    '/media/projects/perso-lettering03_image-4.png',
+    '/media/projects/perso-lettering03_image-5.png',
+    '/media/projects/perso-lettering03_image-6.png',
+    '/media/projects/perso-lettering03_image-7.png',
+    '/media/projects/perso-lettering03_image-8.png'
+  ],
+  category: 'design',
+  description: 'Este projeto consiste em um carrossel desenvolvido para Instagram com foco em mostrar a evolução no lettering por meio da prática contínua. As artes foram pensadas para comparar processos, evidenciando o antes e depois dos primeiros exercícios e destacando a transformação visual ao longo do tempo. O design explora composições leves, uso de cores suaves e contrastantes, além de elementos gráficos que remetem a cadernos, anotações e estudos manuais. A tipografia é o elemento central do projeto, variando entre estilos experimentais e versões mais refinadas, reforçando visualmente o conceito de aprendizado e evolução. As peças utilizam sobreposição de formas, setas, linhas pontilhadas e blocos de texto que conduzem a leitura de forma fluida, criando uma narrativa visual clara e didática. O carrossel foi desenvolvido com foco em engajamento e identificação do público, valorizando o processo criativo e a construção gradual do olhar artístico.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'lettering-inspiracao',
+  title: 'Lettering & Inspiração — Carrossel Instagram',
+  image: '/media/projects/perso-lettering02_image-1.png',
+  gallery: [
+    '/media/projects/perso-lettering02_image-1.png',
+    '/media/projects/perso-lettering02_image-2.png',
+    '/media/projects/perso-lettering02_image-3.png',
+    '/media/projects/perso-lettering02_image-4.png',
+    '/media/projects/perso-lettering02_image-5.png',
+    '/media/projects/perso-lettering02_image-6.png',
+    '/media/projects/perso-lettering02_image-7.png',
+    '/media/projects/perso-lettering02_image-8.png',
+    '/media/projects/perso-lettering02_image-9.png'
+  ],
+  category: 'design',
+  description: 'Este projeto consiste em um carrossel desenvolvido para Instagram com foco em inspiração criativa e exercício do olhar artístico através do lettering e da observação do cotidiano. As artes exploram a ideia de que a inspiração está presente em todos os lugares, utilizando fotografias autorais, recortes tipográficos e composições visuais que mesclam elementos orgânicos e urbanos. O design trabalha com sobreposição de texturas, simulação de papel rasgado, colagens e letras recortadas, criando uma estética manual e experimental que dialoga com processos criativos analógicos. A paleta de cores vibrante e equilibrada reforça a identidade visual do projeto, enquanto a hierarquia tipográfica conduz a leitura de forma leve e dinâmica. O carrossel foi pensado para gerar engajamento, estimular a percepção visual e comunicar, de forma sensível, o processo criativo por trás do lettering e da observação cotidiana, valorizando cada detalhe como fonte de inspiração.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'curso-lettering-carrossel',
+  title: 'Curso Online de Lettering | Carrossel Instagram',
+  image: '/media/projects/perso-lettering01_image-1.png',
+  gallery: [
+    '/media/projects/perso-lettering01_image-1.png',
+    '/media/projects/perso-lettering01_image-2.png',
+    '/media/projects/perso-lettering01_image-3.png',
+    '/media/projects/perso-lettering01_image-4.png',
+    '/media/projects/perso-lettering01_image-5.png',
+    '/media/projects/perso-lettering01_image-6.png',
+    '/media/projects/perso-lettering01_image-7.png',
+    '/media/projects/perso-lettering01_image-8.png'
+  ],
+  category: 'design',
+  description: 'Desenvolvimento da arte para carrossel de Instagram criado para divulgação de um curso online de lettering, com foco total na estética visual e na experiência de leitura do usuário no feed. As peças foram pensadas como uma narrativa visual progressiva, combinando tipografia expressiva, elementos gráficos orgânicos e uma paleta de cores suaves e acolhedoras, alinhadas ao universo criativo do lettering manual. A composição explora variações de layout entre textos, imagens e fotografias, mantendo unidade visual por meio de cores, formas e ritmo gráfico. O tratamento e a edição das imagens ajudaram a valorizar detalhes dos materiais e do processo criativo, enquanto a hierarquia tipográfica conduz o olhar entre títulos, destaques e chamadas para ação. A arte foi desenvolvida para transmitir leveza, criatividade e proximidade, reforçando a identidade do curso e tornando o carrossel visualmente atrativo, didático e envolvente para redes sociais.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'viver-sem-drogas-plotagem',
+  title: 'Viver Sem Drogas – Mensagem em Movimento | Carrossel Instagram',
+  image: '/media/projects/perso-viver_image-1.png',
+  gallery: [
+    '/media/projects/perso-viver_image-1.png',
+    '/media/projects/perso-viver_image-2.png',
+    '/media/projects/perso-viver_image-3.png',
+    '/media/projects/perso-viver_image-4.png',
+    '/media/projects/perso-viver_image-5.png',
+    '/media/projects/perso-viver_image-6.png',
+    '/media/projects/perso-viver_image-7.png'
+  ],
+  category: 'design',
+  description: 'Desenvolvimento da arte para carrossel de Instagram criado para apresentar o projeto de plotagem veicular do programa Viver Sem Drogas, da Prefeitura de Curitiba. A construção visual das peças foi pensada para traduzir o conceito de “mensagem em movimento”, explorando recortes precisos do veículo, contornos gráficos destacados e fundos com variações tonais que reforçam dinamismo e fluidez entre os slides. A composição prioriza leitura clara, contraste e hierarquia visual, permitindo que a arte funcione de forma impactante no feed e na sequência do carrossel. As cores institucionais foram trabalhadas de maneira consistente para fortalecer a identidade visual da campanha, enquanto o tratamento e a edição das imagens garantem uniformidade, nitidez e valorização do projeto aplicado. O resultado é uma arte moderna, coesa e estratégica, desenvolvida especificamente para redes sociais, conectando design, comunicação pública e impacto visual.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'bono-pneus-identidade',
+  title: 'Bono Pneus – Identidade e Fachada | Carrossel Instagram',
+  image: '/media/projects/perso-bono_image-1.png',
+  gallery: [
+    '/media/projects/perso-bono_image-1.png',
+    '/media/projects/perso-bono_image-2.png',
+    '/media/projects/perso-bono_image-3.png',
+    '/media/projects/perso-bono_image-4.png',
+    '/media/projects/perso-bono_image-5.png',
+    '/media/projects/perso-bono_image-6.png',
+    '/media/projects/perso-bono_image-7.png'
+  ],
+  category: 'design',
+  description: 'Desenvolvimento da arte para carrossel de Instagram com foco na apresentação da identidade visual da Bono Pneus aplicada à fachada e aos elementos externos da loja. A criação das peças partiu do conceito de impacto visual e leitura rápida, essenciais para o ambiente de redes sociais, utilizando composição dinâmica, recortes fotográficos, sobreposição de imagens e áreas de cor bem definidas. A paleta cromática institucional foi explorada de forma estratégica para gerar contraste e fortalecer o reconhecimento da marca, enquanto a tipografia em destaque organiza a hierarquia das informações e conduz a narrativa entre os slides. O tratamento e a edição das imagens foram fundamentais para padronizar iluminação, cores e enquadramento, garantindo unidade visual em todo o carrossel. O resultado é uma arte forte, consistente e coerente, pensada para valorizar a presença da marca no feed e comunicar profissionalismo, estrutura e solidez de forma clara e atrativa.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'perso-evento-iff',
+  title: 'Personnaliza UP – Comunicação Visual para Evento IFF',
+  image: '/media/projects/perso-even-iff_image-1.png',
+  gallery: [
+    '/media/projects/perso-even-iff_image-1.png',
+    '/media/projects/perso-even-iff_image-2.png',
+    '/media/projects/perso-even-iff_image-3.png',
+    '/media/projects/perso-even-iff_image-4.png',
+    '/media/projects/perso-even-iff_image-5.png',
+    '/media/projects/perso-even-iff_image-6.png'
+  ],
+  category: 'design',
+  description: 'Criação de carrossel para Instagram desenvolvido com o objetivo de apresentar e valorizar a comunicação visual produzida para a 31ª Semana da Engenharia. A arte foi pensada para destacar, de forma clara e atrativa, as aplicações dos materiais gráficos no evento, como totens informativos e lona para painel de projeção, reforçando a organização e a identidade visual da ação. O layout utiliza composição dinâmica, tipografia de impacto e contraste de cores para garantir leitura fluida no formato carrossel e boa retenção do público. As imagens reais do projeto foram tratadas e integradas ao design para transmitir profissionalismo, coerência visual e credibilidade, transformando a entrega física em um conteúdo estratégico para redes sociais.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'perso-totens-fecomercio',
+  title: 'Personnaliza UP – Totens Promocionais Fecomércio PR | Carrossel Instagram',
+  image: '/media/projects/perso-fecomercio_image-1.png',
+  gallery: [
+    '/media/projects/perso-fecomercio_image-1.png',
+    '/media/projects/perso-fecomercio_image-2.png',
+    '/media/projects/perso-fecomercio_image-3.png',
+    '/media/projects/perso-fecomercio_image-4.png',
+    '/media/projects/perso-fecomercio_image-5.png',
+    '/media/projects/perso-fecomercio_image-6.png'
+  ],
+  category: 'design',
+  description: 'Projeto de carrossel criado para apresentar os totens promocionais desenvolvidos para a Fecomércio PR, com foco em ações institucionais e de divulgação em shopping centers. As peças destacam o design clean e elegante dos totens, evidenciando a qualidade dos materiais, a precisão dos acabamentos e a clareza da comunicação visual. A composição valoriza a leitura à distância, o equilíbrio entre imagem e texto e a padronização visual da campanha. O desenvolvimento gráfico priorizou funcionalidade e impacto, reforçando a identidade institucional da Fecomércio PR e garantindo peças resistentes, versáteis e visualmente atrativas para ambientes de grande circulação.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'perso-totem-galeteria',
+  title: 'Personnaliza UP – Totem Luminoso Galeteria Caxias | Carrossel Instagram',
+  image: '/media/projects/perso-galeteria_image-1.png',
+  gallery: [
+    '/media/projects/perso-galeteria_image-1.png',
+    '/media/projects/perso-galeteria_image-2.png',
+    '/media/projects/perso-galeteria_image-3.png',
+    '/media/projects/perso-galeteria_image-4.png',
+    '/media/projects/perso-galeteria_image-5.png',
+    '/media/projects/perso-galeteria_image-6.png',
+    '/media/projects/perso-galeteria_image-7.png'
+  ],
+  category: 'design',
+  description: 'Desenvolvimento de carrossel para Instagram apresentando o projeto de totem luminoso em alto padrão criado para a Galeteria Caxias. As peças exploram a sofisticação do conjunto, destacando o design vertical, o uso estratégico da iluminação em LED e os acabamentos premium aplicados ao projeto. A comunicação visual foi pensada para valorizar a fachada, reforçar a identidade da marca e transmitir impacto visual tanto durante o dia quanto à noite. O layout utiliza contrastes fortes, tipografia expressiva e composição equilibrada, evidenciando os materiais e soluções adotadas. Todo o material gráfico foi desenvolvido com foco em presença urbana, visibilidade e percepção de qualidade, alinhando estética e função de forma clara e objetiva.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'perso-frontlight',
+  title: 'Personnaliza UP – Frontlight para Empresas | Carrossel Instagram',
+  image: '/media/projects/perso-frontlights_image-1.png',
+  gallery: [
+    '/media/projects/perso-frontlights_image-1.png',
+    '/media/projects/perso-frontlights_image-2.png',
+    '/media/projects/perso-frontlights_image-3.png',
+    '/media/projects/perso-frontlights_image-4.png',
+    '/media/projects/perso-frontlights_image-5.png',
+    '/media/projects/perso-frontlights_image-6.png'
+  ],
+  category: 'design',
+  description: 'Projeto de carrossel desenvolvido para divulgação dos serviços de frontlight da Personnaliza UP, com foco em evidenciar impacto visual, visibilidade contínua e fortalecimento de marca no ambiente urbano. As peças apresentam a aplicação real das placas iluminadas para a rede Kharina, explorando o contraste entre iluminação diurna e noturna, além da valorização das cores e imagens dos produtos. O design foi construído com hierarquia clara de informações, tipografia forte e composição dinâmica, reforçando a presença da marca 24 horas por dia. O conjunto visual comunica durabilidade, qualidade de acabamento e eficiência da iluminação frontal em LED, mantendo alinhamento com a identidade visual da Personnaliza UP e o apelo comercial do formato carrossel.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
+  id: 'perso-outdoors',
+  title: 'Personnaliza UP – Backdrops para Eventos | Carrossel Instagram',
+  image: '/media/projects/perso-outdoors_image-1.png',
+  gallery: [
+    '/media/projects/perso-outdoors_image-1.png',
+    '/media/projects/perso-outdoors_image-2.png',
+    '/media/projects/perso-outdoors_image-3.png',
+    '/media/projects/perso-outdoors_image-4.png',
+    '/media/projects/perso-outdoors_image-5.png',
+    '/media/projects/perso-outdoors_image-6.png',
+    '/media/projects/perso-outdoors_image-7.png'
+  ],
+  category: 'design',
+  description: 'Este projeto consiste no desenvolvimento de um carrossel para Instagram com foco na divulgação dos serviços de criação e produção de backdrops para eventos da Personnaliza UP. As peças foram pensadas para comunicar impacto visual, profissionalismo e versatilidade, destacando a aplicação dos backdrops em palestras, eventos corporativos e transmissões ao vivo. O layout utiliza imagens reais dos projetos aplicados, combinadas com textos estratégicos e hierarquia visual clara, reforçando a importância do backdrop como elemento de valorização da marca. A identidade visual segue uma linguagem moderna e forte, com uso de contrastes, tipografia marcante e composição dinâmica, garantindo retenção e leitura fluida no formato carrossel.',
+  techs: [
+    'CorelDRAW',
+    'Adobe Photoshop',
+    'Design gráfico',
+    'Identidade visual',
+    'Criação de conteúdo para redes sociais',
+    'Tratamento e edição de imagens',
+    'Composição tipográfica',
+    'Marketing digital'
+  ]
+  },
+  {
   id: 'gralha-azul',
   title: 'Gralha Azul - Carrossel Instagram',
   image: '/media/projects/gralha-azul_image-1.png',
@@ -24,7 +315,8 @@ export const projects: Project[] = [
     '/media/projects/gralha-azul_image-4.png',
     '/media/projects/gralha-azul_image-5.png',
     '/media/projects/gralha-azul_image-6.png',
-    '/media/projects/gralha-azul_image-7.png'
+    '/media/projects/gralha-azul_image-7.png',
+    '/media/projects/gralha-azul_image-8.png'
   ],
   category: 'design',
   description: 'O projeto Gralha Azul, consiste em um carrossel de seis imagens desenvolvidas para divulgação da marca no Instagram. As peças foram criadas com foco em apresentar a tradição da empresa, sua estrutura física, a inovação em produtos, a possibilidade de personalização, os diferenciais de qualidade e a localização do showroom. O design segue uma identidade visual consistente e moderna, utilizando composição de imagens, cores institucionais e tipografia de impacto, reforçando a credibilidade e a proximidade da marca com seu público.',
